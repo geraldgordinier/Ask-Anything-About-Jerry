@@ -107,9 +107,9 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col h-[calc(100vh-100px)] bg-transparent font-sans text-gray-900">
+    <div className="flex flex-col h-[calc(100vh-140px)] bg-transparent font-sans text-gray-900">
       {/* Chat Area */}
-      <div className="flex-1 overflow-y-auto p-3 space-y-4 bg-gray-50/50">
+      <div className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50">
         <AnimatePresence initial={false}>
           {messages.map((msg, index) => (
             <motion.div
@@ -209,22 +209,22 @@ export default function App() {
       </div>
 
       {/* Input Area */}
-      <div className="p-4 bg-white border-t border-gray-100 shadow-[0_-4px_20px_-15px_rgba(0,0,0,0.1)]">
+      <div className="p-2 bg-white border-t border-gray-100 shadow-[0_-4px_20px_-15px_rgba(0,0,0,0.1)]">
         <div className="relative flex items-end gap-2 max-w-4xl mx-auto">
           <textarea
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={handleKeyDown}
             placeholder="Ask a question..."
-            className="w-full max-h-32 min-h-[52px] bg-gray-50 border border-gray-200 rounded-2xl px-4 py-3.5 pr-12 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 resize-none transition-all"
+            className="w-full max-h-32 min-h-[44px] bg-gray-50 border border-gray-200 rounded-2xl px-3 py-2.5 pr-10 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 resize-none transition-all"
             rows={1}
           />
           <button
             onClick={() => handleSend()}
             disabled={!input.trim() || isLoading}
-            className="absolute right-2 bottom-2 p-2 rounded-xl bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:hover:bg-blue-600 transition-colors shadow-sm"
+            className="absolute right-1.5 bottom-1.5 p-1.5 rounded-xl bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-50 disabled:hover:bg-blue-600 transition-colors shadow-sm"
           >
-            <Send size={18} className={input.trim() && !isLoading ? 'translate-x-0.5 -translate-y-0.5 transition-transform' : ''} />
+            <Send size={16} className={input.trim() && !isLoading ? 'translate-x-0.5 -translate-y-0.5 transition-transform' : ''} />
           </button>
         </div>
       </div>
