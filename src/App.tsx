@@ -107,7 +107,7 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col h-[calc(100vh-140px)] bg-transparent font-sans text-gray-900">
+    <div className="flex flex-col h-full bg-transparent font-sans text-gray-900">
       {/* Chat Area */}
       <div className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50">
         <AnimatePresence initial={false}>
@@ -210,7 +210,7 @@ export default function App() {
 
       {/* Input Area */}
       <div className="p-2 bg-white border-t border-gray-100 shadow-[0_-4px_20px_-15px_rgba(0,0,0,0.1)]">
-        <div className="relative flex items-end gap-2 max-w-4xl mx-auto">
+        <div className="relative flex items-end gap-2 w-full max-w-[85%] ml-11">
           <textarea
             value={input}
             onChange={(e) => setInput(e.target.value)}
