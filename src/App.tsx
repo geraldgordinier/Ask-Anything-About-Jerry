@@ -26,21 +26,9 @@ export default function App() {
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const scrollContainerRef = useRef<HTMLDivElement>(null);
 
-  const scrollToBottom = () => {
-    if (scrollContainerRef.current) {
-      const scrollContainer = scrollContainerRef.current;
-      scrollContainer.scrollTo({
-        top: scrollContainer.scrollHeight,
-        behavior: 'smooth'
-      });
-    }
-  };
-
-  useEffect(() => {
-    scrollToBottom();
-  }, [messages, isLoading]);
+  const lastUserIndex = messages.map(m => m.role).lastIndexOf('user');
+  const visibleMessages = lastUserIndex !== -1 ? messages.slice(lastUserIndex) : messages;
 
   const handleSend = async (textToSend?: string) => {
     const userText = typeof textToSend === 'string' ? textToSend : input.trim();
@@ -113,14 +101,11 @@ export default function App() {
   };
 
   return (
-    <div className="flex flex-col h-full bg-transparent font-sans text-gray-900">
+    <div className="flex flex-col h-[450px] bg-transparent font-sans text-gray-900">
       {/* Chat Area */}
-      <div 
-        ref={scrollContainerRef}
-        className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50"
-      >
+      <div className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50">
         <AnimatePresence initial={false}>
-          {messages.map((msg, index) => (
+          {visibleMessages.map((msg) => (
             <motion.div
               key={msg.id}
               initial={{ opacity: 0, y: 10 }}
@@ -154,7 +139,7 @@ export default function App() {
                 </div>
                 
                 {/* Example Questions - Show only after the first welcome message */}
-                {index === 0 && messages.length === 1 && (
+                {msg.id === 'welcome' && (
                   <motion.div 
                     initial={{ opacity: 0, y: 5 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -175,7 +160,7 @@ export default function App() {
                 )}
 
                 {/* Suggested Follow-up Questions - Show only for the latest model message */}
-                {msg.role === 'model' && msg.suggestedQuestions && msg.suggestedQuestions.length > 0 && index === messages.length - 1 && !isLoading && (
+                {msg.role === 'model' && msg.suggestedQuestions && msg.suggestedQuestions.length > 0 && !isLoading && (
                   <motion.div 
                     initial={{ opacity: 0, y: 5 }}
                     animate={{ opacity: 1, y: 0 }}
