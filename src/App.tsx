@@ -26,10 +26,16 @@ export default function App() {
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const messagesEndRef = useRef<HTMLDivElement>(null);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (scrollContainerRef.current) {
+      const scrollContainer = scrollContainerRef.current;
+      scrollContainer.scrollTo({
+        top: scrollContainer.scrollHeight,
+        behavior: 'smooth'
+      });
+    }
   };
 
   useEffect(() => {
@@ -109,7 +115,10 @@ export default function App() {
   return (
     <div className="flex flex-col h-full bg-transparent font-sans text-gray-900">
       {/* Chat Area */}
-      <div className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50">
+      <div 
+        ref={scrollContainerRef}
+        className="flex-1 overflow-y-auto p-2 space-y-3 bg-gray-50/50"
+      >
         <AnimatePresence initial={false}>
           {messages.map((msg, index) => (
             <motion.div
@@ -205,7 +214,6 @@ export default function App() {
             </div>
           </motion.div>
         )}
-        <div ref={messagesEndRef} />
       </div>
 
       {/* Input Area */}
