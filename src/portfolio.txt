@@ -1,0 +1,410 @@
+Homepage Overview
+Jerry Gordinier
+A DESIGN LEADER WITH Over 15 YEARS EXPERIENCE DRIVING ENTERPRISE UX STRATEGY
+WORKS
+  
+
+Delivering AI Insights for Google Ad Sales & Customers
+Unlocked new channels of communication with embedded AI insights, to drive deeper sales customer engagement, meeting small business owners where they communicate with tailored pitches, driving millions in efficiency savings and incremental revenue
+  
+
+Redesigning Marketplace & Deep Contextual Inquiry
+As one of Atlassian's first two UX designers in San Francisco, I led foundational UXR and redesign of the Atlassian Marketplace and internal plugin manager, extending to drive suite-wide contextual inquiry and guerrilla user testing driving overarching strategy during Atlassians mid-size growth phase
+  
+
+Refocusing Patient Engagement
+Provided doctors clinical support through augmented devices like Google Glass and mobile, enabling more focus on patients and less time charting
+  
+
+Modernizing the EHR Experience
+Redesigned a legacy clinical platform into a patented, multi-device HTML5 ecosystem, defining desktop and tablet UX to help physicians to capture what they need and operate at top of license
+  
+
+Designing for behavior change
+Supporting Opower's mission to reduce energy usage, I led redesign of the 30+ utility sign-up forms, drove color-blind accessibility investigations, and developed a vision for a mobile energy-saving experience
+  
+
+Independent design and development
+As co-founder of Watermelon Design Co., envisioned and led multiple independent efforts in design, web, mobile, and flash dev from Taoyuan, Taiwan to San Francisco, CA
+TALKS
+
+THE 70:30 MODEL FOR BETTER UX ALLOCATION
+
+TAKING CARE OF YOUR TEAM IN UNCOMMON TIMES
+
+Tips and Tricks FOR Product Excellence
+
+Eating your own dogfood
+EXPLORATIONS
+  
+
+Hue Vietnamese Center
+Leveraging Gemini I've built an app to learn the basics of Hue Vietnamese, in concert with my weekly tutoring, to learn my partner's language. The app has flash cards, quizzes, and embedded pronunciation from system language availability.
+Language learning • Vibe Coding
+  
+
+TheDailyUncover Instagram
+Exploring creator workflows in instagram, I maintain a daily uncover account, learning tools like Facebooks published dashboard, Gemini for image generation, and Final Cut Pro for production
+Meta Business Center • Final Cut Pro
+  
+
+Fireworks Simulator
+A basic fireworks simulator built in Gemini to support filming of a short film I wrote in production for late 2026.
+Vibe Coding • Fireworks
+  
+
+The Judo Dojo
+Leveraging Gemini and Netlify for hosting, I developed a custom React app for the CCSF Judo group, translating the syllabus into an interactive study tool with belt-specific quizzes, embedded tutorial videos, and tips.
+Vibe Coding • Warrior Spirit
+  
+
+Runner Music Video
+Combining my original accousitc composition / lyrics with AI-powered stills in the style of Studio Ghibli, I explore if story can be stithced together through quick images without animation
+Music Production • AI Art • Video Production
+  
+
+Fake Support Dashboard
+A fake support dashboard created to support a short film in production for late 2026, created with Gemini and hosted on Netlify
+Vibe Coding
+  
+
+Poeminals
+As a life-long writer, 'Poeminals' is a free-form poetry chapbook for every animal from (A)lligator to (Z)ebra, with interplay between human-authored verse and AI-generated art.
+Content Strategy • Poetry
+  
+
+Jerry Gordinier on Spotify
+From a long line of musicians, I use Logic Pro to engineer and produce acoustic and electronic beats, managing the full audio production lifecycle from tracking to mixing to publishing x-platforms w/ DistroKid.
+Music Production • Logic Pro • DistroKid
+wRITINGS
+ABOUT
+For over 15 years, I've lead user-centered design and teams to solve deep problems in complex enterprise spacesthrough empathy, clarity, and strategic leadership, including nearly a decade leading designers at Google and as one of the first two San Francisco designers at Atlassian from 2011-2013.
+My last two years at Google I helped lead the first AI efforts for Google’s account managers driving hundreds of millions of demonstrable impact. Originally from Michigan, now based in San Francisco, I am currently taking classes and exploring creative outlets like improv, standup, music production, and screenwriting.
+I'm a life-long learner, and love to share my learnings. Drawing on my experience in both systems thinking and improvisational comedy, I approach every project with curiosity. Whether I am architecting a global product or developing a custom React app for my Judo community, my goal is to build experiences that feel honest, functional, and deeply intuitive.
+I love to build stuff that works, that matters, and that makes teams and users happy
+
+
+Google AI / Comms
+Delivering AI Insights for Google Ad Sales & Customers
+Unlocked new channels of communication with embedded AI insights, to drive deeper sales customer engagement, meeting small business owners where they communicate with tailored pitches, driving millions in efficiency savings and incremental revenue
+COMPANY
+Google Ads, Connect Sales Platform
+Location
+Mountain View, CA • San Francisco, CA • Bangalore, India
+Year
+2023-2025
+ROLE & TEAM
+Design Manager w/ 6 directs & lead directing 15+ UX across 3 platforms
+  
+
+Overview
+Google’s Sales Platform facilitates billions of interactions between sellers and ads customers monthly, responsible for $###M+ in annual revenue for Google. Sale Platform owns Connect Sales, the main CRM and hub for seller-customer interactions, as well as designing experiences to deliver customer insights and assistance everywhere sellers work with customers, across Google tools like Meet, Email, Mobile, and ecosystem partner teams managing things like sales event invites.
+As Sales Platform sought to rapidly scale new channels of seller-customer communication (e.g. WhatsApp, 1p chat, integrated voice) and introduce new AI capabilities and insights in those channels, fragmented product teams were deploying inconsistent "black box" AI features without unifying guidelines or collaboration in approach to channel delivery, leading to confused sellers, and customers who felt their needs were not being heard. Our designers, product, and engineering partners were pretty bummed out, too.
+My role
+As Design Manager and Area Lead across Communications and new AI Initiatives tracks was to operate as a player-coach and design facilitator to unite Sales, Support, and Sales Ecosystem product teams and lead overarching UX strategy for AI insight delivery. Beyond my direct team, I gathered 15+ UX tiger team friends across platforms to research our on seller/customer needs, design new patterns for AI, and establish strategy, collaborating with senior product leadership to define and secure product investments for high and low-touch sales groups.
+From this work and my authorship on the Channels and AI strategy papers, I was tasked to lead a team of 6+ relatively junior UX (<2 years tenure) to deliver multiple AI-powered features everywhere Sales works, including efforts for assisted email creation in GMail, Sales Coaching powered by transcript insights, live objection-handling in Google Meet, and more.
+Impact
+By championing user-first empathy and research and collaborative design, my team successfully aligned complex cross-functional stakeholders across 10+ teams, authored cross-Google AI design standards for Enterprise and delivered multiple AI-powered features driving:
+* $###M in incremental annual revenue through deeper, more effective pitches
+* ### headcount savings driven from increases in efficiency
+* 80+% customer CSAT averaged across AI/comms experiences meeting high platform bar
+* Enterprise AI Playbook founded new AI patterns (e.g. explainability, feedback), 465+ unique views x-Google, leveraged for 10+ features, impacting far beyond Sales Platform
+Let's dive in to explore the journey and some of our approaches…
+*   *   *   
+
+Background
+Sales Platform sought to support sellers meeting customers everywhere they worked, understanding the service design needs of customers onboarding, setting up, growing their business, and troubleshooting. At the same time, the power of AI was growing, moving from incremental value to truly transformational changes in sales-customer engagements (read our Case Study for more background).
+For the UX team, designing new patterns to scale an intelligent, multi-channel ecosystem for tens of thousands of Google sellers presented four user experience hurdles:
+   * Disjointed, High-Friction Communications: Historically, our platform forced customers into rigid, Google-preferred communication channels (like emails or scheduled meetings) rather than meeting customers where they were. Busy small-to-medium business owners don’t have time to chat on the phone or log into a portal to fix an ad approval issue: they want to text via WhatsApp, LINE, or SMS. Because sellers were trapped in legacy systems, response times lagged, and sellers lacked the real-time insights necessary to drive strategic, personalized conversations with customers.
+
+   * Cognitive Overload from Emergent, Fragmented AI Experiences: As AI permeated the platform, the UI became a chaotic landscape of distracting gradients, "sparkles", and inconsistent, hype-driven names (e.g., "Smart Pitch Nurse") distracting sellers from vital customer data, eroding trust, and leaving sellers unsure how new tools fit in.
+
+   * Explainability vs. Information Overload: Sellers often handle high-value clients where AI hallucination could cost millions. Legacy approaches to mitigating  risk blanketed the UI in warnings, paralyzing seller workflows with risk of alert fatigue and information blindness. Conversely, hiding AI limitations in fine print created massive risk. We needed a UX paradigm that help sellers understand value and limitations, while empowering sellers to correct where needed as "experts-in-the-loop."
+
+   * Chat Framework Architectural Tradeoffs: To deliver insights in new channels of communication like embedded chat, we faced a critical UX architecture decision: Build a centralized "Chat Console" or persistent "Chat Moles". A console was easier and faster to build, but stripped sellers of context. We needed to evaluate UX approach in concert with build: a 3P solution, sharing Support-side chat infra, or a custom build, including tradeoffs and politics across teams.
+      *         *         *         *   
+
+Investigations
+To halt proliferation of fragmented AI experiences and define needs across enterprise teams, I created an overarching UXR plan, defined key questions, and rallied a tiger team across platforms to drive:
+         * System explorations: I guided the team auditing 20+ cross-Google AI projects in a broad heuristic evaluation, finding inconsistencies and opportunities to align in naming, branding, explainability, and more. Our team dove deep on competitive analysis of other enterprise systems like Microsoft Copilot exploring patterns, copy, onboarding, explainability, feedback patterns, and more.
+
+         * Data deep-dives: Our team analyzed millions Connect Sales sessions finding useful insights — for instance legacy feedback patterns (thumbs up / down) failed, with only hundreds of engagements, requiring new patterns to gather feedback and grow intelligence in an AI-first world.
+
+         * Talking to global users: We planned, drove, ran, and synthesized 30+ international user interviews across EMEA to ground AI use-cases in real seller pain points. I led multiple vendor interviews in Barcelona, Dublin, and Singapore, synthesizing with senior PM partners to define largest needs.
+
+         * Exploring together: Finding overlapping project directions across Google, I fostered partnerships faciliating a 11+ team workshop bringing together DeepMind, Ads Platform, Ads Guide, Sales Intel, and Support Platform and Ecosystem partner teams to review learnings, ideate, and forge a unified 2026+ vision for new patterns, how AI insights and x-channel handoffs could work x-teams.
+            *               *               *               *   
+
+The Enterprise AI UX Playbook
+               * A principled approach: From our work we defined key principles, a focus on less is more when it comes to AI branding and positioning, to better highlight truly transformative experiences.
+
+               * Trust-focused patterns to grow intelligence: We provided new patterns for contextual feedback loops that treated enterprise reps as experts, gathering granular feedback to improve models and their experiences. We established a multi-tier risk system for AI outputs that allowed us to flex how forward we put our disclaimers, balancing noise and signals
+
+               * Unified naming to know what does what: By facilitating joint problem-solving sessions, our teams were able to consolidate our divergent product efforts under a unified "Assist" taxonomy, so sellers know how every feature fits in their workflow.
+
+               * Process to make teams successful: In addition to UX patterns, we provided clear checklists for utilizing the playbook in a move-fast, AI-first world. We provided nascent writing guidelines and a new way of thinking about work, ensuring UX doesn't get left behind in faster cycles.
+The AI Product Suite
+With governance and UX guidebook in place, I orchestrated research, design, and execution of the first AI-powered features suite, scaling and coaching a nascent team of six designers (averaging <2 years tenure) in this highly ambiguous 0-to-1 space. To protect focus during frequent reorgs and shifting targets, I socialized a 70/30 capacity allocation model of engagement with product, engineering, and business partners. I gave a talk on this model in 2020 if interested.
+Under my direction, our team successfully delivered multiple AI-powered experiences, notably:
+                  * Assisted Emails: Our work for AI-powered emails rich with customer data helped drive low-touch sales to faster, more targeted customer outcomes. Impact: Reached 74% CSAT, assisting with ##% of all GCS seller emails—crushing low single-digit target.
+
+                  * Assisted Meetings: We pioneered real-time Google Meet integrations. The team designed a persistent sidebar that analyzes live transcripts to surface objection-handling metrics (e.g., YouTube vs. TikTok stats) mid-conversation. Impact: Increased efficiency by 50% across Meet workflows.
+
+                  * Sales Coaching: We transformed a localized coaching tool into a platform-wide engine, sharing extracted insights horizontally into Marketing Advisor to capture competitive threats and product sentiment. Impact: While in beta, Coaching was met with significant qualitative support from sales VPs and frontline at directing and upleveling skills.
+Note: As these experiences are under NDA I cannot share UI publically, but happy to talk through UX iteration, choices, and my process 1:1
+Impact
+By operating fluidly between high-level strategy, team coaching, and IC execution, my team and extended partners drove measurable success for Google Sales Platform, and Google more broadly:
+                     * Revenue & Cost savings: Our AI product efforts successfully landed driving $###M/yr in incremental proven via rigorous A/B testing, and ### headcount (HC) savings YTD 2025.
+
+                     * Unprecedented Adoption: The AI experiences achieved >90% weekly usage by sellers, driving an internal CSAT of 80%+ and a stat sig #%+ uplift in Advertiser CSAT.
+
+                     * Enterprise AI Design Scalability x-Google: Connect AI Playbook drove 40 distinct UX improvements across 10+ features, garnered 465+ cross-Google views, and directly influenced Google's broader Enterprise Design System.
+
+                     * New Channels to Pitch: Omnichannel Strategy was funded, integrating new 3P channels directly into Connect Sales CRM, unlocking a ~$#.#B Total Addressable Market.
+
+
+Augmedix
+
+
+
+
+Atlassian
+Redesigning Marketplace & Deep Contextual Inquiry
+As one of Atlassian's first two UX designers in San Francisco, I led foundational UXR and redesign of the Atlassian Marketplace and internal plugin manager, extending to drive suite-wide contextual inquiry and guerrilla user testing driving overarching strategy during Atlassians mid-size growth phase
+COMPANY
+Atlassian
+Location
+San Francisco, CA • Sydney, Australia
+Year
+2011 – 2013
+ROLE & TEAM
+UX Designer & Researcher for Marketplace • Contextual Inquiry Program Founder
+  
+
+Overview
+Atlassian builds complex enterprise work-tracking and collaboration tools like Jira, Trello, and Confluence, empowering thousands of remote teams globally. At its core, Atlassian powers agile processes so companies can move fast, track work accurately, and get shit done (one of their core principles)
+Serving as one of the first two designers in the San Francisco office, partnering with 14 UX in Sydney, Australia I was tasked with driving design and research for the Atlassian Marketplace, as well as fostering collaboration and research on the ground in San Francisco.
+My Role
+During my time at Atlassian I wore many hats, going beyond core design of the Atlassian Marketplace focus to elevate patterns, collaborative design strategies (e.g. the Product Playbook), and drive significant research for the entire product suite.
+                        * Redesigning Atlassian 3P Marketplace and Internal Plugin Manager: My primary focus was overhauling the external Atlassian Marketplace and the product-internal plugin marketplace to allow third-party developers better ways to build on top of core products—a crucial moat for Atlassian. By rethinking what was previously just a "20% time" project for engineering, I defined foundational design patterns that would eventually scale into the broader Atlassian Design Guidelines.
+
+                        * Defining the Atlassian Playbook: I did deep work to define some of the first collaborative plays in the Atlassian Playbook. This fostered stronger strategy through deep collaboration with product teams, introducing high-level strategy plays (such as trade-off slides, anchors, and engines) alongside deeper tactical exercises.
+
+                        * Elevating patterns and components: Given the nascent design team and component library, I worked to develop a number of patterns including Tables and Forms to help align across the Atlassian Suite, driving user efficiency and saving UX and eng time.
+
+                        * Founding the Contextual Inquiry Program: I established and led Atlassian's contextual inquiry program, spearheading investigations across the Bay Area to define strategic needs for the entire product portfolio. These foundational learnings were bolstered by the rapid-fire guerrilla user testing I drove annually at the Atlassian Summit.
+Impact
+My work at Atlassian led to significant, lasting product impact across the ecosystem:
+
+                           * Plugins for Everyone: I delivered a revitalized developer and admin experience for the external Marketplace, as well as a revamped internal upload and management experience. This drove a significant increase in both hosted plugins and plugin downloads. My designs elevated Atlassian's UI, establishing foundational patterns like data tables that scaled across the company.
+
+                           * Driving Strategic Direction: Running 30+ contextual inquiries at large and small companies across the Bay Area uncovered massive opportunities to impact the entire product suite—from Jira to Bitbucket to Confluence. These efforts were lauded by the co-founders and directly influenced multiple core strategy papers, helping grow Atlassian from scrappy mid-size startup to a $19B company.
+
+                           * Collaboration Plays and Foundational Patterns: My foundational work contributed to multiple plays for the official Atlassian Playbook and introduced new, scalable patterns for the design library, fundamentally elevating cross-team collaboration and increasing dev velocity.
+                              *                                 *                                 *                                 *   
+
+Challenges
+                                 * Elevating a Side Project: The Atlassian Marketplace and internal plugin systems were initially treated as 20% time projects for engineering. The challenge was transforming these disjointed experiences into a cohesive, centralized ecosystem that could serve as a massive strategic moat for Atlassian. As the first UX in a eng team of 20, I needed to establish the role of UX as well as foundational patterns for the marketplace.
+                                 * The Translation Gap: Relying on traditional, flat graphic design tools (like Photoshop or Illustrator) created friction. Dynamic web elements—like CSS3 transforms or interactive accordions—were lost in translation during the developer handoff. Minor, pixel-perfect UI fixes were often swallowed by massive Jira backlogs, leading to a degraded user experience.
+
+                                 * Bridging the Hemisphere: As one of the first two designers in the San Francisco office, I had to establish strong,
+asynchronous collaboration with a 14-person UX team based in Sydney, ensuring our local efforts aligned with and elevated the global product strategy.
+                                    *                                       *                                       *                                       *   
+
+Research & Driving Strategic Direction
+                                       * Collaborative Design and getting in the code for Atlassian Marketplace, I got into the code to better understand the structures and design, working closely with engineering in San Francisco to map needs through collaborative design exercises. I published my efforts on the internal Atlassian blog, helping push other designers to make quick commits and explore new ways of collaborating.
+
+                                       * I founded and led Atlassian’s first contextual inquiry program, conducting over 30 targeted, in-person investigations at both large and small companies across the Bay Area, I uncovered strategic needs that influenced the entire product portfolio (Jira, Bitbucket, Confluence), shared bi-weekly across the whole company. The research heavily informed our strategic direction. Our discoveries were lauded by the co-founders, directly impacted multiple core strategy papers, and fueled the creation of collaborative plays (like trade-off slides, anchors, and engines) for the Atlassian Playbook.
+                                          * I led guerrilla testing @ Atlassian Summit to validate our findings at scale, I drove rapid-fire guerrilla usability testing annually at the Atlassian Summit, capturing direct feedback from our most engaged users across 10+ prototypes annually.
+
+                                             *                                                *                                                *                                                *   
+
+Design
+                                                * An updated marketplace: I led the end-to-end design for the external Atlassian Marketplace and the internal plugin management tools, revitalizing the experience for both developers and admins.
+
+                                                * Designing in the Code: To eliminate the design-to-engineering translation gap and ensure high-fidelity implementation, I integrated directly into the front-end codebase. Using Bitbucket, Git, and Sublime Text, I designed and developed the Marketplace "Getting Started" page—writing the HTML5, CSS3, and JavaScript, and navigating the complexities of legacy browser constraints to ensure a pixel-perfect, interactive build.
+
+                                                * Foundational Patterns: By getting hands-on with the code and understanding the technical architecture, I was able to define scalable, foundational design patterns. My work on core UI components—such as data tables and keyboard shortcut specifications—ultimately scaled to become integral parts of the broader Atlassian Design Guidelines, increasing cross-team collaboration and development velocity.
+Impact
+My work at Atlassian led to significant, lasting product impact across the ecosystem:
+                                                   * Plugins for Everyone: I delivered a revitalized developer and admin experience for the external Marketplace, as well as a revamped internal upload and management experience. This drove a significant increase in both hosted plugins and plugin downloads. My designs elevated Atlassian's UI, establishing foundational patterns like data tables that scaled across the company.
+
+                                                   * Driving Strategic Direction: Running 30+ contextual inquiries at large and small companies across the Bay Area uncovered massive opportunities to impact the entire product suite—from Jira to Bitbucket to Confluence. These efforts were lauded by the co-founders and directly influenced multiple core strategy papers, helping grow Atlassian from scrappy mid-size startup to a $19B company.
+
+                                                   * Collaboration Plays and Foundational Patterns: My foundational work contributed to multiple plays for the official Atlassian Playbook and introduced new, scalable patterns for the design library, fundamentally elevating cross-team collaboration and increasing dev velocity.
+
+
+
+
+Practice Fusion
+Modernizing the EHR Experience
+Redesigned a legacy clinical platform into a patented, multi-device HTML5 ecosystem, defining desktop and tablet UX to help physicians to capture what they need and operate at top of license
+COMPANY
+Practice Fusion
+Location
+San Francisco, CA
+Year
+Nov 2013 - Jul 2015
+ROLE & TEAM
+Senior UX partnering with team of 20+, 4 PMS, multiple eng partners
+  
+
+Overview
+Practice Fusion is a free, cloud-based electronic health record (EHR) platform designed to serve doctors and patients in small practices across the US. At the time, the platform required a massive modernization effort to transition from a legacy Flash-based system to a responsive, multi-device HTML5 experience. Practice Fusion is was acquired by Veradigm Inc. (formerly Allscripts) for $100M in early 2018.
+My Role
+As a Senior UX Designer, I owned the end-to-end design for the clinical and charting tracks across desktop and mobile. A critical focus of this overhaul was Flow Sheets—a complex system for entering and reviewing patient data over time. I partnered closely with product, engineering, medical advisors, and business stakeholders to design an interface that rivaled the flexibility of paper while leveraging the power of digital automation.
+Impact
+I successfully led the platform's transition to modern web standards, established foundational design patterns, and secured multiple utility patents for interface innovations—ultimately delivering one of the cleanest and most efficient EHR interfaces on the market.
+                                                      *                                                         *                                                         * 
+
+The Challenge
+Medical providers are notoriously time-poor: for the last four or five patient visits of the day, a doctor may have zero minutes of free time. Historically, providers relied on paper "flow sheets" for data entry. While messy, paper was fast, flexible, and completely customizable to a specific specialty or patient need.
+The transition to standard EHRs left providers frustrated. Digital systems were often slow, rigidly standardized by government regulations, and spread critical patient data across multiple, hard-to-find screens.  Trust needed to be at the forefront, designing safe, efficient systems for high-risk patient populations while balancing the dense data requirements of diverse health systems.
+Legacy modernization is no easy feat, however. Transitioning a complex, feature-heavy Flash product into a seamless, responsive HTML5 experience without disrupting the daily workflows of medical professionals, especially those still often bound to paper workflows.
+I was tasked with researching and designing a modernized flow sheet experience that could accommodate a massive variety of specialties, practice sizes, and provider workflows, without slowing doctors down. Overcoming the notoriously cluttered and confusing UX typical of legacy healthcare software, I needed to create an interface that felt modern, intuitive, and fast, while also collecting and displaying the dense tabular data needed to adhere to clinician workflows.
+To appropriately scope and design this highly requested feature, I utilized a mixed-methods research approach to understand both the business constraints and the clinical realities:
+                                                         * Stakeholder Alignment: Leveraging faciliated design techniques I learned and developed at Atlassian, I Collaborated with product managers to define business goals, timelines, scope, and agile staging.
+
+                                                         * Provider Interviews: Interviewed doctors across various specialties to map their daily workflows and uncover deep needs for data entry and display, traveling to offices for site visits.
+
+                                                         * Competitive analysis: Evaluated competing EHR systems like Epic, alongside an onsite clinical paper workflows, to identify industry failures and opportunities for innovation.
+
+                                                         * Heuristic evaluation: Audited Practice Fusion's existing minimal interface for vitals and growth charts to map the migration path to advanced flow sheets.
+
+                                                         * Literature review: Researched medical table design and reviewed internal documentation to understand how providers interacted with legacy paper flow sheets.
+                                                            *                                                               *                                                               *                                                               *   
+
+Research and Design
+I facilitated preliminary sketching sessions with cross-functional stakeholders to get ideas on the table and align on technical risks, defining six core user stories. From there, I moved into high-fidelity design, building out six user flows as user stories:
+                                                               * Creation & Attachment: Building custom flow sheets, adding observation rows, and attaching them to specific encounters or providers.
+
+                                                               * Community Sharing: Allowing providers to view, copy, and edit flow sheets created by the broader medical community.
+
+                                                               * Encounter Integration: Adding and customizing flow sheets directly within a patient encounter or face sheet.
+
+                                                               * On-the-Fly Editing: Adjusting the data shown and customizing the sheet during an active patient visit.
+
+                                                               * Data Manipulation: Viewing, sorting, filtering, and traversing historical patient information within the tabular UI.
+
+                                                               * Print Optimization: Designing clear, readable printed views for complex data that spanned multiple pages, including specific callouts.
+Throughout the process, I pushed our core patterns team to evolve the system's visual language, working with design partners to conceptualize a sliding panel interface to maximize screen real estate (now pattened). I validated these interactions through rapid-fire usability testing with providers. In addition, I mentored multiple junior designers and cross-functional team members looking to break into the design field, affording tactical opportunities in the redesign.
+
+To ensure a smooth transition from design to development, I focused heavily on documentation and agile collaboration with comprehensive redlining, evaluating of responsive breakpoints across multiple screen sizes, mobile-optimization for tablet users, documenting edge cases and working to build out multiple phases for build with eng and PM.
+The modernized Flow Sheets feature was successfully rolled out to all practices utilizing Practice Fusion, drastically improving the speed and cleanliness of longitudinal data entry. The foundational UX patterns established during this project—including the patented UI paradigms—accelerated future product development with HTML5 and elevated the design standard across the company.
+We were awarded multiple patents for this work, specifically recognizing the sliding panel designs that contributed to an exceptionally clean and efficient clinical UX. Most importantly, the redesigned charting experience drastically reduced friction in daily medical workflows, driving measurable improvements in provider efficiency and overall customer satisfaction.
+"Jerry is the kind of designer you can throw into a new domain, ask to extend and improve the design system and he will do it all with a great attitude and deliver really solid design solutions... He’s dedicated and trustworthy, able to take a design system and run with it, but also makes a point of checking in to make sure everyone’s on the same page. He’s a delight to work with."
+— Stefan Klocek, UX Lead at Google (Indirect Manager at Practice Fusion)
+
+
+Opower
+Designing for behavior change
+Supporting Opower's mission to reduce energy usage, I led redesign of the 30+ utility sign-up forms, drove color-blind accessibility investigations, and developed a vision for a mobile energy-saving experience
+COMPANY
+OPower
+Location
+Arlington, VA
+Year
+Jun 2011 - Dec 2011
+ROLE & TEAM
+UX Designer amongst six UX
+  
+
+Overview
+Opower (now part of Oracle) is a leading cloud-based software-as-a-service platform that uses AI and behavioral science to help utility companies engage customers and drive energy efficiency. Partnering with over 175 utilities, it delivers personalized home energy reports, proactive alerts, and load-shifting tools that have saved over 32 terawatt-hours of energy.
+My Role
+As UX designer I led multiple efforts to elevate Opower's suite of products
+                                                                  * I Ied redesign of 20+ sign-up forms for Opower utility portals, including heuristic evaluation, competitive analysis, ideation, rapid prototyping and usability testing
+
+                                                                  * I developed a comprehensive color-blind accessibility presentation for design consideration, ideating on small wins with the team
+
+                                                                  * I developed initial personas and vision for a potential Opower mobile offering to drive behavior change and energy savings on the go, when shopping for new appliances, and beyond
+Impact
+My work led to the redesign of all Opower sign-up forms, including updates for color-blind accessibility guidelines to help with utility-specific branding, ensuring a faster onboarding for all types of users looking to understand their energy usage.
+My work on the new potential mobile offering helped explore and unpack potential user journeys for future investment in the on-the-go energy savings space.
+                                                                     *                                                                        *                                                                        *                                                                        *   
+
+Research
+Opower's sign-up forms were designed and built by a single team absent designer, and had not been updated or explored for UX or best practices. Understanding the information needed for the forms (requiring a paper bill), errors that might happening during fill of the form, and general interaction elements all sorely needed love. As these forms were also customized by utility with their own color stylings, many were inaccessible to those with low vision or colorblindness.
+To explore needs for the sign-up form redesign I looked across the home reports Opower offered, the sign-up portals, ideating through sketch and sticky note ideas which I used to drive a brainstorm with product and UX. I created multiple personas to anchor the types of needs across various consumers. I dug deep on colorblind evaluation tools and best practices, the underlying types of colorblindness, to provide better guide to utilities and our default approach to designing the sign-up forms.
+Beyond sign-up forms, senior leads at Opower were interested in the potential for new forms of engagement in mobile. For the mobile offering consideration I led some mapping on the web app IA, to understand the offerings and structure on desktop that might be useful for mobile, a net new initiative to explore potentials for things like embedded ads for energy-saving devices when shopping, or on the go tips for quick consumption to drive better energy use habits.
+                                                                        *                                                                           *                                                                           *                                                                           *   
+
+Design
+My work led to the redesign of all Opower sign-up forms, including updates for color-blind accessibility guidelines to help with utility-specific branding, ensuring a faster onboarding for all types of users looking to understand their energy usage.
+My work on the new potential mobile offering helped explore and unpack potential user journeys for future investment in the on-the-go energy savings space.
+
+
+Personal projects
+Independent design and development
+As co-founder of Watermelon Design Co., envisioned and led multiple independent efforts in design, web, mobile, and flash dev from Taoyuan, Taiwan to San Francisco, CA
+COMPANY
+Watermelon Design Co.
+Location
+Taouyan, Taiwan • Ann Arbor, MI • San Francisco, CA
+Year
+2008-2015
+ROLE & TEAM
+Design, marketing, content (everything guy) + multiple developers
+  
+
+Over my 15-year career in UX, my UX philosophy has been rooted in a deep-seated curiosity and a commitment to life-long learning. The entrepreneurial projects below represent my earliest explorations into product strategy,  design, and front-end development. Building these ventures from the ground up taught me how to wear every hat—from researcher to coder to marketer—and how to navigate the messy, end-to-end realities of launching a product.
+                                                                           *                                                                              *   
+
+The Puppy Snap: Designing for a Cause
+2020 • San Francisco, CA
+                                                                              * The challenge: Dog owners and animal shelters often struggle to capture engaging photos of dogs to share online or promote for adoption.
+
+                                                                              * My role: Design an iOS application that plays engaging sounds to capture a dog's attention for a photo, while simultaneously raising shelter awareness.
+
+                                                                              * Work and skills gained: I spearheaded the visual identity, UI/UX, and interaction flows, modeling them after successful social photo apps. I created all App Store marketing assets and designed/developed a responsive HTML5 landing page.
+
+                                                                              * Impact: Launched the app on the iOS store, establishing early shelter partnerships and a built-in donation model linked to app purchases to support animal rescue efforts.
+Partybot9000: Crowdfunding Real-World Events
+2015–2016 • Ann Arbor, MI
+                                                                                 * The challenge: Hosting events can be expensive, and it is often difficult to gauge real financial or social commitment from invitees.
+
+                                                                                 * My role: Create a crowdfunding and social reputation platform to share party costs and increase attendee engagement.
+
+                                                                                 * Work and skills gained: I developed wireframes and conceptualized social pressure mechanisms—such as public donation visibility, gamified badges, and VIP backer status—to encourage user investment and interaction.
+
+                                                                                 * Impact: Built actionable interactive prototypes that explored behavioral economics, unpacking how transparent funding goals and social reputation can drive group coordination and real-world participation.
+                                                                                    *                                                                                       *                                                                                       *   
+
+Teacher Lara: Updating the Classroom for the 21st Century
+2011 • Ann Arbor, MI
+                                                                                       * The challenge: A colleague, Teacher Lara Hulbert, needed a modern digital hub to manage her classroom, as traditional methods lacked interactivity and collaboration.
+
+                                                                                       * My role: Design and develop a customized, interactive classroom website for her students to communicate, collaborate, and practice coursework.
+
+                                                                                       * Work and skills gained: I built a custom platform using the WordPress CMS, heavily modifying the framework with custom PHP. I also designed and developed custom Flash mathematics tools and interactive message boards.
+
+                                                                                       * Impact: Provided students with a reliable, centralized portal to check schedules, submit homework assignments, and play educational math games, vastly improving day-to-day classroom collaboration.
+Moodtivities: Tracking Behavior & Emotion
+2011 • Ann Arbor, MI
+                                                                                          * The challenge: People lack intuitive digital tools to connect their daily activities to their emotional well-being over time.
+
+                                                                                          * My role: Design a mobile tracking application to help users log behavior and discover actionable lifestyle correlations.
+
+                                                                                          * Work and skills gained: I conducted user research via paper prototypes, discovering a strong preference for predefined activities over custom entry. I designed the iOS interface and explored complex data visualizations to display emotional trends alongside smart, algorithmic lifestyle suggestions.
+
+                                                                                          * Impact: Delivered a mobile-optimized prototype featuring behavioral change mechanics, gamified leaderboards, and a clear color-coded mood scale to drive positive, data-backed lifestyle adjustments.
+                                                                                             *                                                                                                *                                                                                                *                                                                                                *   
+
+Taiwan English: Breaking Language Barriers
+2009-2011 • Taoyuan, Taiwan
+                                                                                                * The challenge: During my tenure as an English teacher for Gloria Schools in Taoyuan, Taiwan, I realized there was a constant need for fresh educational games, but no centralized repository existed for ESL teachers to share them.
+
+                                                                                                * My role: Design and build an online, community-driven database to help teachers find games and to help newly arrived expats navigate daily life in Taiwan.
+
+                                                                                                * Work and skills gained: I co-founded the platform, leading the design and coding the front-end (XHTML, CSS, PHP). To incentivize contributions, I designed a gamified animal-themed ranking system for users who submitted content.
+
+                                                                                                * Impact: The platform successfully scaled to include over 150 detailed games, a comprehensive SEO-optimized cultural guide, and an active language-exchange matching system connecting locals and foreigners.
+Penpal Roulette: Fostering Global Connections
+2009-2011 • Taoyuan, Taiwan
+                                                                                                   * The challenge: The rise of random networking sites like Chatroulette and Omegle highlighted a gap in the market for platforms fostering long-term, thoughtful interactions rather than fleeting, anonymous connections.
+
+                                                                                                   * My role: Build a desktop web platform to anonymously pair strangers worldwide for sustained email penpalling.
+
+                                                                                                   * Work and skills gained: I designed and developed the system architecture (XHTML, CSS, PHP, MySQL), implementing frictionless onboarding and an anonymous mail-routing backend that protected user privacy. I also utilized jQuery to style the interface and integrated SEO and AdSense.
+
+                                                                                                   * Impact: Grew the platform to over 500 registered users, successfully managing an active community while navigating the end-to-end challenges of product marketing and iteration based on user feedback.
