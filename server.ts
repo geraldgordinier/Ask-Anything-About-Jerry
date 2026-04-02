@@ -7,7 +7,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 
 async function startServer() {
   const app = express();
-  const PORT = 3000;
+  const PORT = process.env.PORT || 3000;
 
   app.use(express.json());
 
@@ -60,7 +60,7 @@ ${portfolioContent}`;
               suggestedQuestions: {
                 type: Type.ARRAY,
                 items: { type: Type.STRING },
-                description: "Exactly three suggested follow-up questions the user could ask next. Do not repeat any questions that have already been asked in the conversation."
+                description: "Exactly two suggested follow-up questions the user could ask next. Do not repeat any questions that have already been asked in the conversation."
               }
             },
             required: ["answer", "suggestedQuestions"]
