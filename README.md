@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+I vibe-coded myself a lil chatbot into my Framer portfolio site that can answer questions about my work and lil creative explorations. If you'd like to have a similar adventure and make a chatbot of you without my headache, feel free to read my latest post on Substack. 
 
-# Run and deploy your AI Studio app
+As a bonus you can also find 10-year-old posts on there railing against device convergence and arcane project naming with acronyms, metaphors for design like five ways design is like a tree, and a post about why it's great to go to Taiwan. 
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5cbfd602-9c0a-413e-a4f9-35ac4c2f53dd
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://substack.com/home/post/p-193004531

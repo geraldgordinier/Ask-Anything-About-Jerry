@@ -11,10 +11,19 @@ async function startServer() {
 
   app.use(express.json());
 
-  // Explicitly allow embedding in iframes (like Framer)
+  // Explicitly allow embedding in iframes (like Framer) and CORS for direct API calls
   app.use((req, res, next) => {
     res.removeHeader("X-Frame-Options");
     res.setHeader("Content-Security-Policy", "frame-ancestors *");
+    res.setHeader("Access-Control-Allow-Origin", "*");
+    res.setHeader("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+    res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+    
+    // Handle preflight requests
+    if (req.method === "OPTIONS") {
+      res.status(200).end();
+      return;
+    }
     next();
   });
 

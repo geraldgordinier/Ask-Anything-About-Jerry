@@ -56,7 +56,9 @@ export default function App() {
       });
       
       if (!response.ok) {
-        throw new Error('Network response was not ok');
+        const errorData = await response.json().catch(() => ({}));
+        console.error('Backend error details:', errorData);
+        throw new Error(errorData.details || 'Network response was not ok');
       }
       
       const data = await response.json();
